@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseApplicationDemo</string>
+    <string name="title_activity_send_message">SendMessage</string>
+    <string name="title_activity_google_auth">GoogleAuth</string>
+    <string name="title_activity_facebook_auth">FacebookAuth</string>
+    <string name="title_activity_twitter_auth">TwitterAuth</string>
+    <string name="title_activity_email_auth">EmailAuth</string>
+    <string name="facebook_id">2019920318277644</string>
+    <string name="fb_login_protocol_scheme">fb2019920318277644</string>
+    <string name="title_activity_upload_file">UploadFileActivity</string>
+    <string name="title_activity_pdf_display">PdfDisplay</string>
+    <string name="title_activity_tree_structure">TreeStructure</string>
+</resources>
